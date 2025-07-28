@@ -1,0 +1,7 @@
+{
+  "name": "world-map-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
